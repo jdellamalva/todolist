@@ -9,11 +9,15 @@ function App(){
             isCompleted: false,
         },
         {
-            text: 'meet friend for lunch',
+            text: 'figure out how to integrate figma designs into react',
             isCompleted: false,
         },
         {
             text: 'build todo app',
+            isCompleted: false,
+        },
+        {
+            text: 'conquer the world',
             isCompleted: false,
         }
     ]);

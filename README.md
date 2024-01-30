@@ -2,6 +2,23 @@
 
 This is some custom styling on a todo list app. I'm working on practicing using Reactive components and styling using Figma.
 
+# How to run
+
+## Setup and Running the Project
+
+1. **Clone the repository**
+
+   Clone the repository using git:
+
+   ```bash
+   git clone git@github.com:username/repo.git
+
+2. Install Node.js and npmm
+
+3. Install http-server
+
+4. Start the server
+
 # MIT LICENSE
 
 Copyright 2023 jdellamalva
