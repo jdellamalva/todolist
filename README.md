@@ -11,7 +11,7 @@ This is some custom styling on a todo list app. I'm working on practicing using 
    Clone the repository using git:
 
    ```bash
-   git clone git@github.com:username/repo.git
+   git@github.com:jdellamalva/todolist.git
 
 2. Install Node.js and npmm
 
